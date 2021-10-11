@@ -23,3 +23,8 @@ indent_size = 4
 [{Makefile,*.mk,*.mak}]
 indent_style = tab
 trim_trailing_whitespace = false
+
+# Golang
+[{*.go,go.mod,go.sum}]
+indent_style = tab
+indent_size = 4
